@@ -9,16 +9,16 @@
 ---
 
 ## 📊 **Question 3: Trip Segmentation Count**
-- 🚕 **Short Trips (≤ 1 mile):** **104,802**
-- 🚙 **Medium Trips (1–3 miles):** **198,924**
-- 🚌 **Long Trips (3–7 miles):** **109,603**
-- 🚎 **7–10 miles:** **27,678**
-- 🚐 **Over 10 miles:** **35,189**
-> **Answer:** `104,802`;`198,924`;`109,603`;`27,678`;`35,189`
+- 🚕 **Short Trips (≤ 1 mile):** **104,838**
+- 🚙 **Medium Trips (1–3 miles):** **199,013**
+- 🚌 **Long Trips (3–7 miles):** **109,645**
+- 🚎 **7–10 miles:** **27,688**
+- 🚐 **Over 10 miles:** **35,202**
+> **Answer:** `104,838`;`199,013`;`109,645`;`27,688`;`35,202`
 ---
 
 ## 🕒 **Question 4: Longest Trip**
-> 🗓️ The longest trip occurred on **2019-10-24**.  
+> **Answer:** `2019-10-31`
 ---
 
 ## 🌆 **Question 5: Biggest Pickup Zones**
